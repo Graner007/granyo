@@ -1,8 +1,6 @@
-import type { NextPage } from 'next'
-
-const Home: NextPage = () => {
+const Home = (): JSX.Element => {
   return (
-    <div>Bence</div>
+    <div>index</div>
   )
 }
 
